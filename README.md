@@ -4,6 +4,10 @@
 - 🌱 Exploring MERN Stack
 - ⚡ Interested in Game Development 🎵❤️
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=il-coder" alt="Piyush Garg | Trophy" /></a> </p>
+
+
 ## Connect with me
 <a href="https://piyushgarg.me/"><img src="https://user-images.githubusercontent.com/62426177/166118371-30f70df7-1078-4826-ae17-c22061658b79.png"
 align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/linkedin.svg"/></a>
