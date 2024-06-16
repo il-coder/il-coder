@@ -12,7 +12,7 @@
 ## Other Github Accounts
 <ul>
     <li><a href="https://github.com/ilcoder689">@ilcoder689</a></li>
-    <li><a href="https://github.com/ilcoder689">@piyushgarg-juspay</a></li>
+    <li><a href="https://github.com/piyushgarg-juspay">@piyushgarg-juspay</a></li>
   </ul>
 
 ## Connect with me
